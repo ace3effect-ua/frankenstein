@@ -1,0 +1,4 @@
+Benchmark screenshot description
+
+
+The screenshot displays benchamrks of different computer cores running the same protein and nucleotide sequence respectively from the sequence server database.
